@@ -1,0 +1,5 @@
+
+You can't sign in to this app because it doesn't comply with Google's OAuth 2.0 policy.
+
+If you're the app developer, register the redirect URI in the Google Cloud Console.
+Request details: response_type=code redirect_uri=https://localhost:3001/auth/google/redirect client_id=610617407743-iv2dnsajki1vuqhemaq6061fesliki70.apps.googleusercontent.com access_type=online scope=https://www.googleapis.com/auth/userinfo.profile https://www.googleapis.com/auth/userinfo.email openid
